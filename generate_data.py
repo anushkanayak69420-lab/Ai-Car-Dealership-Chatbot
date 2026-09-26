@@ -1,9 +1,7 @@
 """
 Generates a realistic synthetic car dealership dataset: inventory + sales.
-Mirrors the kind of data a small car dealership (like the one from your
-internship) would track — stock in, stock sold, days on lot, price, etc.
+Mirrors the kind of data a small car dealership  would track — stock in, stock sold, days on lot, price, etc.
 
-Run this once to create data/car_sales.csv
 """
 
 import pandas as pd
