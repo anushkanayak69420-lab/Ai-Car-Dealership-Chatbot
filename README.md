@@ -5,13 +5,13 @@ An AI-powered chatbot that answers natural language questions about car sales an
 **Inspired by a real car dealership internship**, where inventory management and slow-moving stock were everyday problems. This project turns that experience into a working analytics tool.
 
 ## Live Demo
-_(Add your Streamlit Cloud link here once deployed)_
-
+   🔗 [Try it live here](https://ai-car-dealership-chatbot-xfxtfuueosppow2twapphmc.streamlit.app/)
+   
 ## What makes this stand out
 
 Most beginner projects stop at "here's a chart." This one:
 - Answers **open-ended natural language questions**, not just a fixed dashboard
-- Flags **slow-moving inventory** (models sitting too long before selling) — a genuine business problem, not a toy metric
+- Flags "slow-moving inventory" (models sitting too long before selling) — a genuine business problem, not a toy metric
 - Has a **rule-based mode that works with zero API cost**, plus an **optional LLM mode** (Claude API) that does true NL-to-pandas query generation
 - Fails gracefully — if the LLM generates bad code or the API is unavailable, it safely falls back instead of crashing
 
@@ -69,13 +69,11 @@ car-inventory-chatbot/
 - Dashboard design (KPIs + alerts + chat, not just a notebook)
 - End-to-end deployment
 
-## Possible extensions (great interview talking points)
+## Future improvements
 
 - Connect to a real dealership CRM export instead of synthetic data
 - Add demand forecasting (e.g., predict next month's top-selling model)
 - Add a "reorder recommendation" feature based on sell-through rate
 - Multi-turn conversation memory (follow-up questions like "and last month?")
 
-## Resume bullet
 
-> Built an AI-powered inventory analytics chatbot for a car dealership use case (drawn from internship experience), combining NL-to-pandas querying (Claude API) with inventory-aging analytics to flag slow-moving stock — deployed live via Streamlit.
