@@ -1,0 +1,272 @@
+sale_id,date,month,month_num,brand,model,body_type,branch,color,price,days_in_inventory
+5000,2024-01-24,January,1,Toyota,Fortuner,SUV,City Mall Outlet,Blue,3358000.0,27
+5001,2024-01-01,January,1,Maruti Suzuki,Ertiga,MUV,Downtown Showroom,Black,889000.0,6
+5002,2024-01-08,January,1,Tata,Punch,SUV,Downtown Showroom,Black,717000.0,23
+5003,2024-01-20,January,1,Kia,Sonet,SUV,City Mall Outlet,Black,878000.0,7
+5004,2024-01-13,January,1,Honda,City,Sedan,Downtown Showroom,Blue,1303000.0,50
+5005,2024-01-16,January,1,Toyota,Fortuner,SUV,Downtown Showroom,Black,3620000.0,30
+5006,2024-01-13,January,1,Kia,Seltos,SUV,Highway Branch,Silver,1098000.0,47
+5007,2024-01-05,January,1,Tata,Altroz,Hatchback,Highway Branch,Red,703000.0,17
+5008,2024-01-15,January,1,Maruti Suzuki,WagonR,Hatchback,City Mall Outlet,Silver,585000.0,11
+5009,2024-01-25,January,1,Kia,Seltos,SUV,Downtown Showroom,Blue,1206000.0,18
+5010,2024-01-08,January,1,Toyota,Fortuner,SUV,Downtown Showroom,Blue,3350000.0,55
+5011,2024-01-02,January,1,Hyundai,i20,Hatchback,City Mall Outlet,White,783000.0,38
+5012,2024-01-05,January,1,Toyota,Innova,MUV,Highway Branch,Silver,2001000.0,43
+5013,2024-01-17,January,1,Maruti Suzuki,WagonR,Hatchback,Downtown Showroom,White,560000.0,19
+5014,2024-01-22,January,1,Tata,Nexon,SUV,Highway Branch,Grey,939000.0,18
+5015,2024-01-15,January,1,Tata,Harrier,SUV,Downtown Showroom,Black,1626000.0,29
+5016,2024-01-25,January,1,Hyundai,Verna,Sedan,City Mall Outlet,Silver,1211000.0,29
+5017,2024-01-15,January,1,Honda,Amaze,Sedan,Downtown Showroom,Silver,788000.0,26
+5018,2024-01-07,January,1,Toyota,Fortuner,SUV,City Mall Outlet,Blue,3653000.0,18
+5019,2024-02-18,February,2,Kia,Seltos,SUV,City Mall Outlet,Red,1169000.0,20
+5020,2024-02-27,February,2,Tata,Altroz,Hatchback,Highway Branch,Silver,746000.0,11
+5021,2024-02-06,February,2,Honda,Amaze,Sedan,Highway Branch,Black,817000.0,40
+5022,2024-02-03,February,2,Honda,City,Sedan,Downtown Showroom,Red,1310000.0,39
+5023,2024-02-22,February,2,Toyota,Fortuner,SUV,Highway Branch,Silver,3489000.0,29
+5024,2024-02-16,February,2,Toyota,Innova,MUV,Highway Branch,Red,2152000.0,14
+5025,2024-02-19,February,2,Hyundai,Verna,Sedan,City Mall Outlet,White,1202000.0,24
+5026,2024-02-03,February,2,Tata,Harrier,SUV,Downtown Showroom,Silver,1602000.0,15
+5027,2024-02-19,February,2,Maruti Suzuki,WagonR,Hatchback,City Mall Outlet,Blue,523000.0,28
+5028,2024-02-07,February,2,Toyota,Fortuner,SUV,Highway Branch,Blue,3705000.0,21
+5029,2024-02-08,February,2,Toyota,Innova,MUV,Highway Branch,White,1944000.0,31
+5030,2024-02-08,February,2,Tata,Punch,SUV,Downtown Showroom,Blue,727000.0,5
+5031,2024-02-09,February,2,Toyota,Innova,MUV,Downtown Showroom,White,2136000.0,14
+5032,2024-02-18,February,2,Kia,Sonet,SUV,Downtown Showroom,White,869000.0,13
+5033,2024-02-04,February,2,Tata,Harrier,SUV,Highway Branch,White,1668000.0,37
+5034,2024-02-15,February,2,Hyundai,Venue,SUV,City Mall Outlet,Red,1002000.0,13
+5035,2024-02-26,February,2,Toyota,Fortuner,SUV,Downtown Showroom,Silver,3432000.0,27
+5036,2024-02-05,February,2,Maruti Suzuki,Ertiga,MUV,City Mall Outlet,Black,954000.0,24
+5037,2024-02-15,February,2,Kia,Sonet,SUV,Highway Branch,Grey,918000.0,30
+5038,2024-02-23,February,2,Hyundai,Creta,SUV,Downtown Showroom,Silver,1294000.0,28
+5039,2024-02-12,February,2,Toyota,Fortuner,SUV,Highway Branch,Black,3571000.0,56
+5040,2024-02-08,February,2,Kia,Sonet,SUV,Downtown Showroom,Black,810000.0,20
+5041,2024-02-22,February,2,Honda,Amaze,Sedan,City Mall Outlet,Silver,847000.0,30
+5042,2024-02-23,February,2,Hyundai,Venue,SUV,Downtown Showroom,Silver,959000.0,29
+5043,2024-02-05,February,2,Toyota,Fortuner,SUV,Downtown Showroom,Grey,3702000.0,34
+5044,2024-02-09,February,2,Honda,City,Sedan,City Mall Outlet,White,1342000.0,3
+5045,2024-02-17,February,2,Maruti Suzuki,WagonR,Hatchback,Highway Branch,Red,589000.0,32
+5046,2024-02-25,February,2,Kia,Sonet,SUV,Highway Branch,Blue,842000.0,25
+5047,2024-02-14,February,2,Honda,Amaze,Sedan,Downtown Showroom,Red,800000.0,31
+5048,2024-03-10,March,3,Kia,Sonet,SUV,City Mall Outlet,Black,866000.0,22
+5049,2024-03-18,March,3,Tata,Punch,SUV,Downtown Showroom,Blue,675000.0,33
+5050,2024-03-15,March,3,Hyundai,i20,Hatchback,Highway Branch,Silver,720000.0,8
+5051,2024-03-21,March,3,Hyundai,Verna,Sedan,Downtown Showroom,Silver,1204000.0,32
+5052,2024-03-18,March,3,Honda,City,Sedan,Downtown Showroom,Red,1189000.0,55
+5053,2024-03-16,March,3,Tata,Nexon,SUV,City Mall Outlet,White,948000.0,22
+5054,2024-03-17,March,3,Honda,Amaze,Sedan,Highway Branch,Silver,856000.0,30
+5055,2024-03-13,March,3,Maruti Suzuki,Swift,Hatchback,Highway Branch,Blue,665000.0,15
+5056,2024-03-01,March,3,Kia,Sonet,SUV,City Mall Outlet,Grey,822000.0,39
+5057,2024-03-01,March,3,Maruti Suzuki,WagonR,Hatchback,Downtown Showroom,Red,570000.0,26
+5058,2024-03-11,March,3,Maruti Suzuki,Baleno,Hatchback,Downtown Showroom,Silver,676000.0,19
+5059,2024-03-09,March,3,Kia,Sonet,SUV,City Mall Outlet,White,876000.0,38
+5060,2024-03-14,March,3,Tata,Nexon,SUV,Highway Branch,Silver,911000.0,27
+5061,2024-03-17,March,3,Tata,Altroz,Hatchback,City Mall Outlet,Red,666000.0,24
+5062,2024-03-25,March,3,Hyundai,i20,Hatchback,Highway Branch,Black,718000.0,25
+5063,2024-03-22,March,3,Honda,City,Sedan,Downtown Showroom,Red,1323000.0,3
+5064,2024-03-27,March,3,Honda,City,Sedan,City Mall Outlet,Grey,1293000.0,40
+5065,2024-03-13,March,3,Tata,Punch,SUV,Downtown Showroom,Silver,708000.0,38
+5066,2024-03-26,March,3,Tata,Nexon,SUV,City Mall Outlet,Black,903000.0,24
+5067,2024-03-09,March,3,Toyota,Fortuner,SUV,Highway Branch,White,3770000.0,39
+5068,2024-03-13,March,3,Hyundai,i20,Hatchback,Highway Branch,Grey,725000.0,20
+5069,2024-03-04,March,3,Hyundai,Verna,Sedan,City Mall Outlet,Silver,1169000.0,26
+5070,2024-03-05,March,3,Kia,Sonet,SUV,City Mall Outlet,Blue,851000.0,32
+5071,2024-03-04,March,3,Toyota,Innova,MUV,City Mall Outlet,Silver,1963000.0,15
+5072,2024-03-05,March,3,Toyota,Fortuner,SUV,Downtown Showroom,Grey,3695000.0,15
+5073,2024-03-03,March,3,Toyota,Innova,MUV,City Mall Outlet,Grey,1978000.0,24
+5074,2024-03-25,March,3,Tata,Harrier,SUV,City Mall Outlet,Black,1682000.0,14
+5075,2024-03-03,March,3,Toyota,Fortuner,SUV,Downtown Showroom,Red,3585000.0,35
+5076,2024-03-07,March,3,Honda,Amaze,Sedan,Highway Branch,Grey,808000.0,58
+5077,2024-03-23,March,3,Toyota,Fortuner,SUV,Downtown Showroom,Red,3736000.0,33
+5078,2024-03-22,March,3,Tata,Nexon,SUV,Highway Branch,Grey,924000.0,22
+5079,2024-03-10,March,3,Tata,Harrier,SUV,Highway Branch,Black,1690000.0,43
+5080,2024-04-16,April,4,Tata,Nexon,SUV,City Mall Outlet,Black,968000.0,25
+5081,2024-04-18,April,4,Honda,Amaze,Sedan,Highway Branch,Blue,805000.0,37
+5082,2024-04-10,April,4,Honda,Amaze,Sedan,Highway Branch,Blue,835000.0,17
+5083,2024-04-08,April,4,Maruti Suzuki,WagonR,Hatchback,Downtown Showroom,Silver,544000.0,30
+5084,2024-04-25,April,4,Toyota,Fortuner,SUV,Downtown Showroom,Blue,3431000.0,26
+5085,2024-04-18,April,4,Kia,Sonet,SUV,City Mall Outlet,Black,889000.0,25
+5086,2024-04-02,April,4,Kia,Seltos,SUV,Downtown Showroom,Silver,1223000.0,39
+5087,2024-04-01,April,4,Tata,Punch,SUV,City Mall Outlet,Blue,708000.0,25
+5088,2024-04-02,April,4,Hyundai,i20,Hatchback,Downtown Showroom,Blue,787000.0,36
+5089,2024-04-26,April,4,Kia,Sonet,SUV,Highway Branch,Blue,912000.0,20
+5090,2024-04-23,April,4,Honda,Amaze,Sedan,Downtown Showroom,White,861000.0,10
+5091,2024-04-25,April,4,Maruti Suzuki,Baleno,Hatchback,City Mall Outlet,Red,726000.0,30
+5092,2024-04-03,April,4,Tata,Punch,SUV,City Mall Outlet,Grey,735000.0,25
+5093,2024-04-09,April,4,Kia,Sonet,SUV,Highway Branch,Grey,898000.0,34
+5094,2024-04-16,April,4,Maruti Suzuki,WagonR,Hatchback,Highway Branch,Red,551000.0,25
+5095,2024-04-18,April,4,Maruti Suzuki,Baleno,Hatchback,City Mall Outlet,Red,702000.0,46
+5096,2024-04-09,April,4,Maruti Suzuki,Ertiga,MUV,Highway Branch,Red,860000.0,40
+5097,2024-05-16,May,5,Kia,Seltos,SUV,Highway Branch,Black,1148000.0,38
+5098,2024-05-08,May,5,Maruti Suzuki,Baleno,Hatchback,Downtown Showroom,Red,703000.0,15
+5099,2024-05-21,May,5,Tata,Nexon,SUV,Highway Branch,White,1002000.0,45
+5100,2024-05-18,May,5,Honda,City,Sedan,Highway Branch,Black,1277000.0,30
+5101,2024-05-18,May,5,Hyundai,Venue,SUV,Downtown Showroom,Grey,913000.0,22
+5102,2024-05-11,May,5,Maruti Suzuki,WagonR,Hatchback,City Mall Outlet,Red,572000.0,10
+5103,2024-05-01,May,5,Maruti Suzuki,Ertiga,MUV,Highway Branch,Grey,862000.0,31
+5104,2024-05-09,May,5,Hyundai,Creta,SUV,City Mall Outlet,Silver,1179000.0,35
+5105,2024-05-25,May,5,Tata,Altroz,Hatchback,City Mall Outlet,Red,720000.0,28
+5106,2024-05-22,May,5,Hyundai,i20,Hatchback,Highway Branch,Red,742000.0,17
+5107,2024-05-02,May,5,Kia,Seltos,SUV,City Mall Outlet,Red,1114000.0,62
+5108,2024-05-27,May,5,Kia,Seltos,SUV,City Mall Outlet,White,1196000.0,28
+5109,2024-05-05,May,5,Hyundai,Creta,SUV,Highway Branch,Blue,1282000.0,47
+5110,2024-05-25,May,5,Honda,Amaze,Sedan,City Mall Outlet,Silver,809000.0,40
+5111,2024-05-01,May,5,Honda,Amaze,Sedan,City Mall Outlet,White,795000.0,33
+5112,2024-05-23,May,5,Kia,Seltos,SUV,Downtown Showroom,Black,1238000.0,59
+5113,2024-05-24,May,5,Kia,Sonet,SUV,City Mall Outlet,Blue,913000.0,23
+5114,2024-06-26,June,6,Tata,Altroz,Hatchback,City Mall Outlet,Black,749000.0,48
+5115,2024-06-27,June,6,Toyota,Innova,MUV,City Mall Outlet,White,2069000.0,15
+5116,2024-06-20,June,6,Hyundai,i20,Hatchback,Highway Branch,Blue,733000.0,21
+5117,2024-06-01,June,6,Hyundai,Creta,SUV,Highway Branch,Blue,1210000.0,22
+5118,2024-06-27,June,6,Hyundai,Venue,SUV,Highway Branch,Grey,954000.0,18
+5119,2024-06-20,June,6,Hyundai,Creta,SUV,City Mall Outlet,Blue,1287000.0,39
+5120,2024-06-23,June,6,Toyota,Innova,MUV,Downtown Showroom,Black,1954000.0,11
+5121,2024-06-27,June,6,Honda,Amaze,Sedan,City Mall Outlet,Grey,782000.0,28
+5122,2024-06-03,June,6,Maruti Suzuki,Baleno,Hatchback,City Mall Outlet,Grey,692000.0,22
+5123,2024-06-20,June,6,Tata,Altroz,Hatchback,Highway Branch,Silver,728000.0,36
+5124,2024-06-02,June,6,Toyota,Fortuner,SUV,Downtown Showroom,Blue,3740000.0,44
+5125,2024-06-09,June,6,Honda,Amaze,Sedan,Downtown Showroom,Blue,763000.0,35
+5126,2024-06-10,June,6,Honda,Amaze,Sedan,City Mall Outlet,Black,852000.0,23
+5127,2024-06-24,June,6,Tata,Punch,SUV,Downtown Showroom,Red,734000.0,23
+5128,2024-06-17,June,6,Kia,Seltos,SUV,Downtown Showroom,White,1240000.0,34
+5129,2024-06-14,June,6,Kia,Seltos,SUV,Downtown Showroom,Grey,1146000.0,22
+5130,2024-06-17,June,6,Honda,Amaze,Sedan,City Mall Outlet,Red,848000.0,31
+5131,2024-06-10,June,6,Maruti Suzuki,Baleno,Hatchback,Highway Branch,Grey,708000.0,20
+5132,2024-06-20,June,6,Toyota,Innova,MUV,Downtown Showroom,Red,2066000.0,13
+5133,2024-06-24,June,6,Tata,Punch,SUV,Highway Branch,Grey,687000.0,26
+5134,2024-06-04,June,6,Kia,Seltos,SUV,Highway Branch,Black,1148000.0,32
+5135,2024-06-27,June,6,Kia,Seltos,SUV,Highway Branch,Red,1165000.0,22
+5136,2024-06-08,June,6,Toyota,Fortuner,SUV,Highway Branch,Silver,3712000.0,46
+5137,2024-06-01,June,6,Hyundai,Venue,SUV,Downtown Showroom,Red,929000.0,41
+5138,2024-06-11,June,6,Kia,Sonet,SUV,City Mall Outlet,Red,826000.0,32
+5139,2024-06-06,June,6,Kia,Seltos,SUV,Downtown Showroom,Silver,1125000.0,22
+5140,2024-06-16,June,6,Hyundai,Creta,SUV,City Mall Outlet,White,1141000.0,31
+5141,2024-07-19,July,7,Toyota,Innova,MUV,City Mall Outlet,Blue,2040000.0,21
+5142,2024-07-21,July,7,Hyundai,i20,Hatchback,Highway Branch,Red,780000.0,23
+5143,2024-07-07,July,7,Tata,Punch,SUV,Downtown Showroom,Silver,698000.0,34
+5144,2024-07-11,July,7,Kia,Seltos,SUV,Highway Branch,Grey,1236000.0,24
+5145,2024-07-08,July,7,Hyundai,Verna,Sedan,Highway Branch,White,1113000.0,16
+5146,2024-07-21,July,7,Hyundai,Creta,SUV,City Mall Outlet,White,1253000.0,29
+5147,2024-07-07,July,7,Honda,City,Sedan,City Mall Outlet,Silver,1274000.0,26
+5148,2024-07-18,July,7,Maruti Suzuki,Ertiga,MUV,Highway Branch,White,959000.0,46
+5149,2024-07-22,July,7,Maruti Suzuki,WagonR,Hatchback,City Mall Outlet,Blue,555000.0,29
+5150,2024-07-04,July,7,Toyota,Innova,MUV,Highway Branch,Red,2143000.0,38
+5151,2024-07-19,July,7,Tata,Altroz,Hatchback,City Mall Outlet,Blue,755000.0,21
+5152,2024-07-26,July,7,Toyota,Fortuner,SUV,Downtown Showroom,Black,3493000.0,29
+5153,2024-07-04,July,7,Maruti Suzuki,WagonR,Hatchback,Downtown Showroom,White,551000.0,32
+5154,2024-07-12,July,7,Tata,Punch,SUV,Downtown Showroom,Red,733000.0,24
+5155,2024-07-24,July,7,Tata,Altroz,Hatchback,Downtown Showroom,Blue,666000.0,15
+5156,2024-07-04,July,7,Honda,City,Sedan,City Mall Outlet,Red,1341000.0,35
+5157,2024-07-06,July,7,Toyota,Fortuner,SUV,Highway Branch,White,3432000.0,10
+5158,2024-07-17,July,7,Hyundai,Venue,SUV,Highway Branch,Grey,913000.0,9
+5159,2024-07-01,July,7,Honda,Amaze,Sedan,City Mall Outlet,Silver,863000.0,58
+5160,2024-08-12,August,8,Hyundai,Creta,SUV,Highway Branch,Black,1286000.0,3
+5161,2024-08-15,August,8,Kia,Seltos,SUV,Highway Branch,Silver,1124000.0,37
+5162,2024-08-11,August,8,Maruti Suzuki,Baleno,Hatchback,City Mall Outlet,Red,701000.0,32
+5163,2024-08-15,August,8,Toyota,Fortuner,SUV,Highway Branch,Black,3706000.0,27
+5164,2024-08-20,August,8,Honda,Amaze,Sedan,Highway Branch,Red,813000.0,16
+5165,2024-08-02,August,8,Maruti Suzuki,Ertiga,MUV,Downtown Showroom,Silver,952000.0,28
+5166,2024-08-21,August,8,Toyota,Fortuner,SUV,City Mall Outlet,Silver,3439000.0,41
+5167,2024-08-01,August,8,Kia,Sonet,SUV,City Mall Outlet,Grey,838000.0,30
+5168,2024-08-07,August,8,Toyota,Fortuner,SUV,City Mall Outlet,Grey,3364000.0,29
+5169,2024-08-09,August,8,Tata,Altroz,Hatchback,City Mall Outlet,Grey,722000.0,12
+5170,2024-08-19,August,8,Maruti Suzuki,WagonR,Hatchback,Downtown Showroom,Black,543000.0,37
+5171,2024-08-09,August,8,Tata,Altroz,Hatchback,Downtown Showroom,Grey,725000.0,29
+5172,2024-08-01,August,8,Kia,Sonet,SUV,City Mall Outlet,Silver,907000.0,41
+5173,2024-08-25,August,8,Kia,Sonet,SUV,Downtown Showroom,Black,845000.0,31
+5174,2024-08-10,August,8,Hyundai,i20,Hatchback,City Mall Outlet,White,786000.0,32
+5175,2024-08-11,August,8,Honda,City,Sedan,Highway Branch,Silver,1295000.0,26
+5176,2024-08-05,August,8,Hyundai,Verna,Sedan,Downtown Showroom,Blue,1097000.0,24
+5177,2024-08-03,August,8,Kia,Sonet,SUV,Downtown Showroom,Blue,845000.0,8
+5178,2024-08-20,August,8,Hyundai,i20,Hatchback,City Mall Outlet,Grey,724000.0,16
+5179,2024-08-21,August,8,Toyota,Innova,MUV,City Mall Outlet,Blue,2027000.0,14
+5180,2024-08-15,August,8,Tata,Altroz,Hatchback,City Mall Outlet,Red,667000.0,29
+5181,2024-08-16,August,8,Kia,Sonet,SUV,City Mall Outlet,Red,904000.0,35
+5182,2024-08-22,August,8,Maruti Suzuki,Swift,Hatchback,City Mall Outlet,Blue,677000.0,19
+5183,2024-08-09,August,8,Maruti Suzuki,Baleno,Hatchback,City Mall Outlet,Red,671000.0,15
+5184,2024-08-09,August,8,Tata,Harrier,SUV,Highway Branch,White,1642000.0,12
+5185,2024-08-06,August,8,Toyota,Innova,MUV,City Mall Outlet,Silver,2145000.0,31
+5186,2024-08-04,August,8,Honda,City,Sedan,Highway Branch,Grey,1332000.0,31
+5187,2024-08-19,August,8,Hyundai,Verna,Sedan,City Mall Outlet,Silver,1217000.0,27
+5188,2024-08-12,August,8,Honda,City,Sedan,City Mall Outlet,Silver,1342000.0,36
+5189,2024-08-20,August,8,Maruti Suzuki,Swift,Hatchback,Highway Branch,Red,666000.0,27
+5190,2024-09-07,September,9,Toyota,Fortuner,SUV,City Mall Outlet,Grey,3595000.0,39
+5191,2024-09-10,September,9,Kia,Sonet,SUV,Downtown Showroom,Grey,881000.0,17
+5192,2024-09-03,September,9,Hyundai,Creta,SUV,City Mall Outlet,White,1191000.0,26
+5193,2024-09-17,September,9,Kia,Seltos,SUV,City Mall Outlet,Silver,1194000.0,48
+5194,2024-09-18,September,9,Honda,City,Sedan,Downtown Showroom,Grey,1281000.0,50
+5195,2024-09-27,September,9,Tata,Punch,SUV,City Mall Outlet,White,691000.0,40
+5196,2024-09-01,September,9,Hyundai,Venue,SUV,Highway Branch,White,923000.0,20
+5197,2024-09-09,September,9,Honda,Amaze,Sedan,Highway Branch,Grey,800000.0,46
+5198,2024-09-23,September,9,Maruti Suzuki,Ertiga,MUV,Downtown Showroom,Grey,876000.0,33
+5199,2024-09-06,September,9,Kia,Seltos,SUV,Highway Branch,Black,1190000.0,24
+5200,2024-09-18,September,9,Toyota,Innova,MUV,Highway Branch,White,2049000.0,21
+5201,2024-09-03,September,9,Maruti Suzuki,WagonR,Hatchback,Highway Branch,Blue,536000.0,38
+5202,2024-09-08,September,9,Hyundai,Creta,SUV,Highway Branch,Blue,1259000.0,29
+5203,2024-09-12,September,9,Hyundai,Venue,SUV,City Mall Outlet,Silver,1010000.0,45
+5204,2024-09-16,September,9,Hyundai,i20,Hatchback,Downtown Showroom,Grey,750000.0,12
+5205,2024-09-24,September,9,Kia,Seltos,SUV,Highway Branch,Silver,1178000.0,64
+5206,2024-09-18,September,9,Toyota,Innova,MUV,Downtown Showroom,Grey,1999000.0,13
+5207,2024-09-16,September,9,Hyundai,Venue,SUV,City Mall Outlet,White,978000.0,32
+5208,2024-09-26,September,9,Tata,Punch,SUV,City Mall Outlet,Blue,728000.0,3
+5209,2024-09-11,September,9,Honda,City,Sedan,Highway Branch,Blue,1249000.0,31
+5210,2024-09-08,September,9,Maruti Suzuki,Baleno,Hatchback,City Mall Outlet,Red,750000.0,29
+5211,2024-09-16,September,9,Kia,Sonet,SUV,Highway Branch,Black,839000.0,23
+5212,2024-09-11,September,9,Toyota,Fortuner,SUV,Downtown Showroom,Silver,3703000.0,27
+5213,2024-09-10,September,9,Tata,Nexon,SUV,Highway Branch,Silver,919000.0,33
+5214,2024-10-23,October,10,Hyundai,Verna,Sedan,Downtown Showroom,Blue,1234000.0,17
+5215,2024-10-27,October,10,Kia,Sonet,SUV,Highway Branch,Red,883000.0,33
+5216,2024-10-12,October,10,Toyota,Innova,MUV,City Mall Outlet,Black,1905000.0,63
+5217,2024-10-01,October,10,Honda,Amaze,Sedan,City Mall Outlet,White,770000.0,41
+5218,2024-10-09,October,10,Maruti Suzuki,WagonR,Hatchback,Downtown Showroom,Red,561000.0,6
+5219,2024-10-18,October,10,Toyota,Fortuner,SUV,Downtown Showroom,Blue,3507000.0,29
+5220,2024-10-27,October,10,Toyota,Fortuner,SUV,City Mall Outlet,Red,3483000.0,15
+5221,2024-10-25,October,10,Kia,Sonet,SUV,Downtown Showroom,Grey,895000.0,13
+5222,2024-10-08,October,10,Maruti Suzuki,WagonR,Hatchback,Downtown Showroom,Silver,561000.0,41
+5223,2024-10-20,October,10,Toyota,Innova,MUV,City Mall Outlet,Grey,2084000.0,21
+5224,2024-10-12,October,10,Kia,Sonet,SUV,Downtown Showroom,White,852000.0,29
+5225,2024-10-07,October,10,Toyota,Innova,MUV,Downtown Showroom,Blue,1908000.0,44
+5226,2024-10-13,October,10,Maruti Suzuki,Baleno,Hatchback,Downtown Showroom,Red,750000.0,40
+5227,2024-10-23,October,10,Maruti Suzuki,WagonR,Hatchback,Highway Branch,Blue,532000.0,21
+5228,2024-10-25,October,10,Hyundai,Verna,Sedan,City Mall Outlet,Black,1120000.0,29
+5229,2024-10-08,October,10,Toyota,Fortuner,SUV,City Mall Outlet,Red,3391000.0,7
+5230,2024-10-01,October,10,Tata,Altroz,Hatchback,Downtown Showroom,Red,739000.0,27
+5231,2024-11-08,November,11,Tata,Punch,SUV,City Mall Outlet,Black,697000.0,42
+5232,2024-11-27,November,11,Honda,City,Sedan,Downtown Showroom,Silver,1213000.0,24
+5233,2024-11-20,November,11,Tata,Altroz,Hatchback,Downtown Showroom,Blue,669000.0,16
+5234,2024-11-15,November,11,Tata,Punch,SUV,City Mall Outlet,Grey,672000.0,5
+5235,2024-11-09,November,11,Toyota,Fortuner,SUV,Downtown Showroom,Red,3645000.0,21
+5236,2024-11-04,November,11,Tata,Nexon,SUV,Downtown Showroom,White,1009000.0,18
+5237,2024-11-08,November,11,Kia,Sonet,SUV,Downtown Showroom,Silver,849000.0,17
+5238,2024-11-12,November,11,Tata,Punch,SUV,Downtown Showroom,Grey,675000.0,13
+5239,2024-11-06,November,11,Kia,Seltos,SUV,Downtown Showroom,Blue,1186000.0,21
+5240,2024-11-08,November,11,Maruti Suzuki,Baleno,Hatchback,City Mall Outlet,Black,666000.0,14
+5241,2024-11-27,November,11,Honda,City,Sedan,City Mall Outlet,Black,1270000.0,17
+5242,2024-11-24,November,11,Maruti Suzuki,Baleno,Hatchback,Highway Branch,Grey,725000.0,26
+5243,2024-11-25,November,11,Honda,City,Sedan,City Mall Outlet,Grey,1311000.0,16
+5244,2024-11-17,November,11,Hyundai,Verna,Sedan,City Mall Outlet,Blue,1213000.0,35
+5245,2024-11-11,November,11,Honda,Amaze,Sedan,Downtown Showroom,Silver,766000.0,44
+5246,2024-11-23,November,11,Maruti Suzuki,Swift,Hatchback,Downtown Showroom,White,643000.0,26
+5247,2024-11-07,November,11,Hyundai,i20,Hatchback,Downtown Showroom,Black,804000.0,22
+5248,2024-11-04,November,11,Kia,Sonet,SUV,City Mall Outlet,Red,905000.0,7
+5249,2024-11-15,November,11,Hyundai,i20,Hatchback,City Mall Outlet,Red,763000.0,18
+5250,2024-11-10,November,11,Hyundai,Venue,SUV,Highway Branch,White,995000.0,50
+5251,2024-12-20,December,12,Kia,Seltos,SUV,Downtown Showroom,White,1175000.0,47
+5252,2024-12-13,December,12,Toyota,Innova,MUV,Highway Branch,Black,1905000.0,10
+5253,2024-12-01,December,12,Hyundai,Creta,SUV,City Mall Outlet,Grey,1248000.0,36
+5254,2024-12-22,December,12,Kia,Sonet,SUV,City Mall Outlet,Grey,812000.0,19
+5255,2024-12-08,December,12,Maruti Suzuki,Swift,Hatchback,City Mall Outlet,Black,651000.0,17
+5256,2024-12-27,December,12,Honda,City,Sedan,City Mall Outlet,White,1192000.0,14
+5257,2024-12-08,December,12,Tata,Harrier,SUV,Highway Branch,Silver,1646000.0,21
+5258,2024-12-23,December,12,Kia,Seltos,SUV,Highway Branch,Red,1145000.0,19
+5259,2024-12-11,December,12,Maruti Suzuki,Baleno,Hatchback,City Mall Outlet,Red,694000.0,37
+5260,2024-12-14,December,12,Hyundai,Verna,Sedan,City Mall Outlet,Grey,1143000.0,57
+5261,2024-12-11,December,12,Hyundai,Creta,SUV,Highway Branch,Grey,1278000.0,19
+5262,2024-12-01,December,12,Hyundai,Venue,SUV,City Mall Outlet,Blue,1000000.0,19
+5263,2024-12-13,December,12,Kia,Sonet,SUV,City Mall Outlet,Red,833000.0,17
+5264,2024-12-24,December,12,Kia,Seltos,SUV,City Mall Outlet,Black,1132000.0,13
+5265,2024-12-10,December,12,Hyundai,Venue,SUV,Downtown Showroom,Black,954000.0,15
+5266,2024-12-09,December,12,Toyota,Innova,MUV,Highway Branch,Blue,2125000.0,30
+5267,2024-12-17,December,12,Honda,Amaze,Sedan,City Mall Outlet,Silver,860000.0,5
+5268,2024-12-06,December,12,Maruti Suzuki,WagonR,Hatchback,City Mall Outlet,Red,567000.0,12
+5269,2024-12-25,December,12,Honda,City,Sedan,City Mall Outlet,Red,1233000.0,33
+5270,2024-12-10,December,12,Kia,Seltos,SUV,Downtown Showroom,Red,1179000.0,47
